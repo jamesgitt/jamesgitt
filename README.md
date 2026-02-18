@@ -17,8 +17,8 @@ Hello! This is the landing page for discovering my projects and repositories. Ex
 
 | Name                       | Description                                  | Link                                                 |
 |----------------------------|----------------------------------------------|------------------------------------------------------|
-| **Project Alpha**          | ML model for ticket tagging                  | [Repo](https://github.com/jamesgitt/ts_ticketing_api) |
-| **Data Visualizer**        | REST API for inventory management            | [Repo](https://github.com/jamesgitt/inventory_management_with_advanced_filtering) |
+| **Ticket Tagger project**          | ML model for ticket tagging                  | [Repo](https://github.com/jamesgitt/ts_ticketing_api) |
+| **Inventory Management**        | REST API for inventory management            | [Repo](https://github.com/jamesgitt/inventory_management_with_advanced_filtering) |
 | _More on my [profile](https://github.com/jamesgitt)_ | | |
 
 ---
